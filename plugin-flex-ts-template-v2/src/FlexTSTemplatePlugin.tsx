@@ -3,7 +3,7 @@ import { FlexPlugin } from '@twilio/flex-plugin';
 
 import { initFeatures } from './utils/feature-loader';
 
-const PLUGIN_NAME = 'FlexTSTemplatePlugin';
+const PLUGIN_NAME = 'FlexTSTemplatePluginAfterArchival';
 
 export default class FlexTSTemplatePlugin extends FlexPlugin {
   // eslint-disable-next-line no-restricted-syntax
